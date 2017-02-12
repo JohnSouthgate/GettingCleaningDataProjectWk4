@@ -1,15 +1,7 @@
----
-title: "Tidy Data README"
-author: "John Southgate"
-date: "12 February 2017"
-output: html_document
----
+# Tidy Data Project README
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-# Tidy Data Project
+### author: John Southgate
+### date: 12 February 2017
 
 
 ## Objective
